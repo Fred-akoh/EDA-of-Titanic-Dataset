@@ -32,12 +32,3 @@ The Titanic dataset offers rich potential for uncovering insights related to dem
 
 In this analysis, we'll be conducting an exploratory data analysis (EDA) of the Titanic dataset to better understand the structure of the data, spot patterns, and identify meaningful relationships that may influence survival outcomes.
 
-
-
-
-
-
-
-
-
-Ask ChatGPT

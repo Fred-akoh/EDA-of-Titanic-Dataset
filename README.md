@@ -1,5 +1,5 @@
 # EDA-of-Titanic-Dataset
-About the Dataset
+About the Dataset:
 The Titanic dataset is one of the most iconic datasets in data science and machine learning. It contains detailed information about the passengers aboard the RMS Titanic, which tragically sank on its maiden voyage in April 1912 after hitting an iceberg. The dataset is often used for classification problems, particularly predicting whether a passenger survived the disaster based on certain features.
 
 This dataset includes variables such as:

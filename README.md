@@ -28,7 +28,7 @@ Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Survived: Whether the passenger survived (1) or not (0)
 
-The Titanic dataset offers rich potential for uncovering insights related to demographics, socioeconomic status, and survival rates. For instance, one might investigate whether gender, age, or ticket class had a significant impact on survival. These insights are especially useful for practicing data wrangling, visualization, and predictive modeling techniques.
+The Titanic dataset offers rich potential for uncovering insights related to demographics, socioeconomic status, and survival rates. 
 
 In this analysis, we'll be conducting an exploratory data analysis (EDA) of the Titanic dataset to better understand the structure of the data, spot patterns, and identify meaningful relationships that may influence survival outcomes.
 
